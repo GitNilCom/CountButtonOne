@@ -18,6 +18,7 @@
 		24C16D8F249A109100D7745E /* CountButtonOneUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 24C16D8E249A109100D7745E /* CountButtonOneUITests.m */; };
 		24C16D9F249A114800D7745E /* CountdownButtonOne.m in Sources */ = {isa = PBXBuildFile; fileRef = 24C16D9E249A114800D7745E /* CountdownButtonOne.m */; };
 		24C16DA2249A116300D7745E /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24C16DA1249A116300D7745E /* SecondViewController.m */; };
+		24C16DA4249A19D400D7745E /* CountButtonOne.gif in Resources */ = {isa = PBXBuildFile; fileRef = 24C16DA3249A19D400D7745E /* CountButtonOne.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		24C16D9E249A114800D7745E /* CountdownButtonOne.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CountdownButtonOne.m; sourceTree = "<group>"; };
 		24C16DA0249A116300D7745E /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		24C16DA1249A116300D7745E /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		24C16DA3249A19D400D7745E /* CountButtonOne.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CountButtonOne.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 		24C16D9C249A10F000D7745E /* CountButtonOne */ = {
 			isa = PBXGroup;
 			children = (
+				24C16DA3249A19D400D7745E /* CountButtonOne.gif */,
 				24C16D9D249A114800D7745E /* CountdownButtonOne.h */,
 				24C16D9E249A114800D7745E /* CountdownButtonOne.m */,
 			);
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				24C16D77249A109100D7745E /* LaunchScreen.storyboard in Resources */,
+				24C16DA4249A19D400D7745E /* CountButtonOne.gif in Resources */,
 				24C16D74249A109000D7745E /* Assets.xcassets in Resources */,
 				24C16D72249A108F00D7745E /* Main.storyboard in Resources */,
 			);
